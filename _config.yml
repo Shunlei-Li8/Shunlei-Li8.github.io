@@ -25,8 +25,7 @@ title:                 Jin WANG
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Jin Wang's personal webpage.
 
 # A shorter description for the sidebar.
 tagline:               Stay passionate Stay focused
@@ -52,13 +51,14 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About Me
-    url:               /about/
+    url:               /aboutme/
   - title:             Research
-    url:               /docs/
+    url:               /research/
   - title:             Project
-    url:               /about/
+    url:               /example/
   - title:             Misc
     url:               /misc/
+
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
@@ -84,13 +84,13 @@ paginate_path:         /:num/
 # ---------------------------------------------------------------------------------------
 
 # This will use the gem `jekyll-theme-hydejack`, as defined in the sibling `Gemfile`.
-#theme: jekyll-theme-hydejack
+theme: jekyll-theme-hydejack
 
 # You can uncomment `theme` above and replace it with `remote_theme` here iff you are using the 
 # `jekyll-remote-theme` plugin (which is the case when using the legacy GitHub Pages pipeline).
 # This will fetch the `v9` branch of the public Hydejack repository on GitHub.
 
-remote_theme: hydecorp/hydejack@v9
+#remote_theme: hydecorp/hydejack@v9
 
 # Customizaton
 # ----------------------------------------------------------------------------------------
@@ -201,7 +201,7 @@ hydejack:
   no_mark_external:    false
 
   # Set to `true` if third party plugins fail to work with dynamically loaded pages
-  no_push_state:       false
+  no_push_state:       true
 
   # Set to `true` if you want to disable the drawer
   no_drawer:           false
@@ -401,6 +401,7 @@ compress_html:
 
 sass:
   style:               compressed
+  
 
 # Jekyll Compose Defaults
 # ---------------------------------------------------------------------------------------
