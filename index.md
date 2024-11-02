@@ -6,6 +6,9 @@ description: >
 hide_description: true
 redirect_from:
   - /homepage/
+no_link_title: false 
+no_excerpt: false 
+hide_image: false
 ---
 
 # About
