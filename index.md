@@ -27,7 +27,7 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
 - [Sep, 2024] [HYPERmotion](https://hy-motion.github.io/) is accepted by CoRL 2024. 🎉
 - [Aug, 2024] One paper accepted by ICRA@40. 📃
 - [Jul, 2024] One paper accepted by IROS 2024 for an oral presentation. ✨
-- [Jul, 2024] Summer school 'Learning-based MPC' at ETHz 🚡
+- [Jul, 2023] Summer school 'Learning-based MPC' at ETHz 🚡
 
 # Research
 ## Featured Publications
@@ -131,7 +131,7 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
     <p><a href="https://arxiv.org/abs/2409.01326" id="HYPERMOTION">
       <strong>Grounding Language Models in Autonomous Loco-manipulation Tasks</strong></a><br>
       <strong>Jin Wang</strong>, Nikos Tsagarakis<br>
-      <em><strong>ICRA@40</strong></em><br>
+      <em>International Conference on Robotics and Automation<strong>ICRA@40</strong></em><br>
     </p>
 
     <p>
