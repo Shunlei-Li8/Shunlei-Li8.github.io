@@ -1,6 +1,5 @@
 ---
 layout: page
-image: /assets/img/jin_index.png
 description: >
   Jin WANG's homepage.
 hide_description: true
@@ -145,3 +144,4 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
 
 # Project
 
+TBD
