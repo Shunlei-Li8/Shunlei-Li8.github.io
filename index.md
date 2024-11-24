@@ -1,8 +1,8 @@
 ---
 layout: page
-image: /assets/img/blog/hydejack-9.jpg
+image: /assets/img/jin.png
 description: >
-  Cover page including everthing.
+  Jin WANG's homepage.
 hide_description: true
 redirect_from:
   - /homepage/
