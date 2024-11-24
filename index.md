@@ -1,6 +1,6 @@
 ---
 layout: page
-image: /assets/img/jin.png
+image: /assets/img/jin_index.png
 description: >
   Jin WANG's homepage.
 hide_description: true
