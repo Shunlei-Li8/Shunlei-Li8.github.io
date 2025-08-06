@@ -12,7 +12,7 @@ hide_image: true
 
 # About
 
-Hi! My name is **Jin Wang**. I am a third-year Ph. D. student in Bioengineering and Robotics at [Italian Institute of Technology](https://www.iit.it/) (IIT), advised by [Nikos Tsagarakis](https://hhcm.iit.it/our-staff-details/-/people/nikos-tsagarakis) as part of the Humanoids and Human Centered Mechatronics ([HHCM](https://hhcm.iit.it/home)) lab. My research interests lie in **robot learning**, **humanoids** and **embodied AI**. More specifically, I’m focusing on autonomous robotic loco-manipulation, integrating foundation models into robot tasks and improving autonomy through learning.
+Hi! My name is **Jin Wang**. I am a third-year Ph. D. student in Bioengineering and Robotics at [Italian Institute of Technology](https://www.iit.it/) (IIT), advised by [Nikos Tsagarakis](https://hhcm.iit.it/our-staff-details/-/people/nikos-tsagarakis) as part of the Humanoids and Human Centered Mechatronics ([HHCM](https://hhcm.iit.it/home)) lab. I am currently a visiting researcher at the **Oxford Robotics Institute**, [DRS-C lab](https://ori.ox.ac.uk/labs/drs-control/), working with Ioannis Havoutis. My research interests lie in **humanoids**, **embodied AI** and **robot learning**. More specifically, I’m focusing on autonomous robotic loco-manipulation, integrating foundation models into robot tasks and improving autonomy through learning.
 
 I am deeply committed to cross-disciplinary teamwork, leveraging engineering mindsets to address real-world challenges. And I’m passionate about novel robotic design and exploring the intelligence and potential value of robots.
 
@@ -20,7 +20,8 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
 
 
 ## News 📰
-
+- [Jul, 2025] I'm starting a new position as Visiting Researcher at [Oxford Robotics Institute](https://ori.ox.ac.uk/), University of Oxford.🧑🏼‍🎓
+- [May, 2025] Our IROS 2025 Workshop proposal [Embodied AI and Robotics for Future Scientific Discovery](https://airobot4sci.github.io/) has been accepted!🎉
 - [Nov, 2024] One paper accepted by [WCBM Workshop](https://wcbm-workshop.github.io/) at CoRL 2024. 📃
 - [Oct, 2024] Invited talks by ZHIDX  [Frontiers of Embodied AI Lecture](https://course.zhidx.com/c/MGZjNWEzOWJjZDcxODhlNTg2OTM=). 💬
 - [Sep, 2024] [HYPERmotion](https://hy-motion.github.io/) is accepted by CoRL 2024. 🎉
@@ -33,7 +34,35 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 
-  <!-- 左侧：论文 GIF 动图 -->
+  <!-- Intention -->
+  <div style="flex: 1; padding-right: 20px;">
+    <a href="https://robo-intention.github.io/">
+      <video playsinline autoplay loop muted src="assets/video/intention_web.mp4" poster="assets/img/research/intention_web.gif" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
+    </a>
+  </div>
+
+  <!-- 右侧：论文信息 -->
+  <div style="flex: 1;">
+    <p><a href="https://robo-intention.github.io/" id="INTENTION">
+      <strong>INTENTION: Inferring Tendencies of Humanoid Robot Motion Through Interactive Intuition and Grounded VLM</strong></a><br>
+      <strong>Jin Wang</strong>, Weijie Wang, Boyuan Deng, Heng Zhang, Rui Dai, Nikos Tsagarakis<br>
+      <em>International Conference on Humanoid Robots (<strong>HUMANOIDS 2025</strong>)</em><br>
+    </p>
+
+    <p>
+      <a href="https://robo-intention.github.io/">webpage</a> |
+      <a href="https://robo-intention.github.io/">pdf</a> |
+      <a href="https://robo-intention.github.io/">arXiv</a> |
+      <a href="https://robo-intention.github.io/">code</a> |
+      <a href="https://www.youtube.com/watch?v=kCupbUgBtXQ">video</a>
+    </p>
+
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+
+  <!-- RoboNurse -->
   <div style="flex: 1; padding-right: 20px;">
     <a href="https://robonurse-vla.github.io/">
       <video playsinline autoplay loop muted src="assets/video/robonurse.mp4" poster="assets/img/research/robonurse.gif" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
@@ -45,7 +74,7 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
     <p><a href="https://robonurse-vla.github.io/" id="ROBONURSE">
       <strong>RoboNurse-VLA: Robotic Scrub Nurse System based on Vision-Language-Action</strong></a><br>
       Shunlei Li, <strong>Jin Wang</strong>, Rui Dai, Wanyu Ma, Wing Yin Ng, Yingbai Hu, Zheng Li<br>
-      <em>arXiv</em><br>
+      <em>International Conference on Intelligent Robots and Systems (<strong>IROS 2025</strong>)</em><br>
     </p>
 
     <p>
@@ -59,10 +88,38 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+
+  <!-- Recovery -->
+  <div style="flex: 1; padding-right: 20px;">
+    <a href="https://boyuandeng.github.io/L2R-WheelLegCoordination/">
+      <video playsinline autoplay loop muted src="assets/video/recovery.png" poster="assets/img/research/recovery.png" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
+    </a>
+  </div>
+
+  <!-- 右侧：论文信息 -->
+  <div style="flex: 1;">
+    <p><a href="https://boyuandeng.github.io/L2R-WheelLegCoordination/" id="RECOVER">
+      <strong>Learning to Recover: Dynamic Reward Shaping with Wheel-Leg Coordination for Fallen Robots</strong></a><br>
+      Boyuan Deng, Luca Rossini, <strong>Jin Wang</strong>, Weijie Wang, Nikos Tsagarakis<br>
+      <em><strong>arXiv</strong></em><br>
+    </p>
+
+    <p>
+      <a href="https://boyuandeng.github.io/L2R-WheelLegCoordination/">webpage</a> |
+      <a href="https://arxiv.org/pdf/2506.05516">pdf</a> |
+      <a href="https://arxiv.org/abs/2506.05516">arXiv</a> |
+      <a href="https://boyuandeng.github.io/L2R-WheelLegCoordination/">code</a> |
+      <a href="https://www.youtube.com/watch?v=78Ur4Cb2AS4&t=1s">video</a>
+    </p>
+
+  </div>
+</div>
+
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 
-  <!-- 左侧：论文 GIF 动图 -->
+  <!-- Hymotion -->
   <div style="flex: 1; padding-right: 20px;">
     <a href="https://hy-motion.github.io/">
       <video playsinline autoplay loop muted src="assets/video/hymotion.mp4" poster="assets/img/research/hymotion.gif" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
@@ -91,7 +148,7 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 
-  <!-- 左侧：论文 GIF 动图 -->
+  <!-- IROS24 -->
   <div style="flex: 1; padding-right: 20px;">
     <a href="https://arxiv.org/abs/2408.08282">
       <video playsinline autoplay loop muted src="assets/video/iros2024.mp4" poster="assets/img/research/iros2024.gif" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
