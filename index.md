@@ -32,6 +32,26 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
 # Research
 ## Featured Publications
 
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+
+  <!-- aurora -->
+  <div style="flex: 1; padding-right: 20px;">
+    <a href="https://robo-intention.github.io/">
+      <video playsinline autoplay loop muted src="assets/img/research/aurora.png" poster="assets/img/research/aurora.png" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
+    </a>
+  </div>
+
+  <!-- 右侧：论文信息 -->
+  <div style="flex: 1;">
+    <p><a href="https://robo-intention.github.io/" id="AURORA">
+      <strong>Thinking-with-Memory: Empowering Robots with Transferable Embodied Cognition</strong></a><br>
+      <strong>Jin Wang</strong>, Nikos Tsagarakis<br>
+      <em>Under Review</em><br>
+    </p>
+  </div>
+</div>
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 
   <!-- Intention -->
@@ -47,6 +67,7 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
       <strong>INTENTION: Inferring Tendencies of Humanoid Robot Motion Through Interactive Intuition and Grounded VLM</strong></a><br>
       <strong>Jin Wang</strong>, Weijie Wang, Boyuan Deng, Heng Zhang, Rui Dai, Nikos Tsagarakis<br>
       <em>International Conference on Humanoid Robots (<strong>HUMANOIDS 2025</strong>)</em><br>
+      <span style="color:red; font-weight:bold;">Oral</span><br>
     </p>
 
     <p>
@@ -75,6 +96,7 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
       <strong>RoboNurse-VLA: Robotic Scrub Nurse System based on Vision-Language-Action</strong></a><br>
       Shunlei Li, <strong>Jin Wang</strong>, Rui Dai, Wanyu Ma, Wing Yin Ng, Yingbai Hu, Zheng Li<br>
       <em>International Conference on Intelligent Robots and Systems (<strong>IROS 2025</strong>)</em><br>
+      <span style="color:red; font-weight:bold;">Oral</span><br>
     </p>
 
     <p>
@@ -161,6 +183,7 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
       <strong>Autonomous Behavior Planning For Humanoid Loco-manipulation Through Grounded Language Model</strong></a><br>
       <strong>Jin Wang</strong>, Arturo Laurenzi, Nikos Tsagarakis<br>
       <em>International Conference on Intelligent Robots and Systems (<strong>IROS 2024</strong>)</em><br>
+      <span style="color:red; font-weight:bold;">Oral</span><br>
     </p>
 
     <p>
