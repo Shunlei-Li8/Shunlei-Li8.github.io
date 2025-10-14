@@ -20,12 +20,12 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Jin WANG
+title:                 Shunlei Li(李顺磊)
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Jin Wang's personal webpage.
+  Shunlei Li's personal webpage.
 
 # A shorter description for the sidebar.
 tagline:               Stay passionate Stay focused 🚀
@@ -36,15 +36,16 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/jay.jpg
+logo:                  /assets/img/shunlei.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <JIN> <WANG>
-  email:               <wang.jin@iit.it>
+  name:                <Shunlei> <Li>
+  email:               <shunlei.li@outlook.com>
   # # Used by `jekyll-seo-tag`:
-  twitter:             <VWangshin>
+
+#  twitter:             <VWangshin>
 
 
 
@@ -70,7 +71,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2024 Jay Wang. All rights reserved.
+copyright:             © 2025 Shunlei Li. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/

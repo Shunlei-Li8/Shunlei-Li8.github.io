@@ -1,7 +1,7 @@
 ---
 layout: page
 description: >
-  Jin WANG's homepage.
+  Shunlei LI's homepage.
 hide_description: true
 redirect_from:
   - /homepage/
@@ -12,12 +12,13 @@ hide_image: true
 
 # About
 
-Hi! My name is **Jin Wang**. I am a third-year Ph. D. student in Bioengineering and Robotics at [Italian Institute of Technology](https://www.iit.it/) (IIT), advised by [Nikos Tsagarakis](https://hhcm.iit.it/our-staff-details/-/people/nikos-tsagarakis) as part of the Humanoids and Human Centered Mechatronics ([HHCM](https://hhcm.iit.it/home)) lab. I am currently a visiting researcher at the [Oxford Robotics Institute](https://ori.ox.ac.uk/), [DRS-C lab](https://ori.ox.ac.uk/labs/drs-control/), working with [Ioannis Havoutis](https://ihavoutis.github.io/). My research interests lie in **humanoids**, **embodied AI** and **robot learning**. More specifically, I’m focusing on autonomous robotic loco-manipulation, integrating foundation models into robot tasks and improving autonomy through learning.
+Hi! My name is **Shunlei Li**. I'm joining [Hangzhou Dianzi University](https://en.hdu.edu.cn/) as a Professor.
 
-I am deeply committed to cross-disciplinary teamwork, leveraging engineering mindsets to address real-world challenges. And I’m passionate about novel robotic design and exploring the intelligence and potential value of robots.
+Prior to that, I completed D.Phil at Istituto Italiano di Tecnologia, 2024, and later become a postdoctoral Fellow working on medical robotics, computer vision, deep learning, biomedical image analysis, at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/).
 
-Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm.fr/teams-en/IDH-en/), France. I received my B.A. in Robotics Union Academy Guangdong-HongKong at GDUT.
+Advisors: Prof. Darwin Caldwell, and Prof. Leonardo De Mattos.
 
+My research interests lie in **medical robot**, **embodied AI** and **multi-modality vision language large model**, **AI4Science**. 
 
 ## News 📰
 - [Jul, 2025] I'm starting a new position as Visiting Researcher at [Oxford Robotics Institute](https://ori.ox.ac.uk/), University of Oxford.🧑🏼‍🎓
@@ -37,16 +38,16 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
 
   <!-- aurora -->
   <div style="flex: 1; padding-right: 20px;">
-    <a href="https://robo-intention.github.io/">
-      <video playsinline autoplay loop muted src="assets/img/research/aurora.png" poster="assets/img/research/aurora.png" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
+    <a href=" ">
+      <video playsinline autoplay loop muted src="assets/img/research/pic1.png" poster="assets/img/research/pic1.png" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
     </a>
   </div>
 
   <!-- 右侧：论文信息 -->
   <div style="flex: 1;">
-    <p><a href="https://robo-intention.github.io/" id="AURORA">
-      <strong>Thinking-with-Memory: Empowering Robots with Transferable Embodied Cognition</strong></a><br>
-      <strong>Jin Wang</strong>, Nikos Tsagarakis<br>
+    <p><a href=" " id="AURORA">
+      <strong>Ai and robot assisted intelligent system for surgical operating room</strong></a><br>
+      <strong>Shunlei Li</strong><br>
       <em>Under Review</em><br>
     </p>
   </div>
@@ -56,26 +57,30 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
 
   <!-- Intention -->
   <div style="flex: 1; padding-right: 20px;">
-    <a href="https://robo-intention.github.io/">
-      <video playsinline autoplay loop muted src="assets/video/intention_web.mp4" poster="assets/img/research/intention_web.gif" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
+    <a href="https://arxiv.org/pdf/2508.05342">
+      <video playsinline autoplay loop muted src="https://www.youtube.com/watch?v=ct0VTcxIHcM" poster="assets/img/research/pic2.png" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
     </a>
   </div>
 
   <!-- 右侧：论文信息 -->
   <div style="flex: 1;">
-    <p><a href="https://robo-intention.github.io/" id="INTENTION">
-      <strong>INTENTION: Inferring Tendencies of Humanoid Robot Motion Through Interactive Intuition and Grounded VLM</strong></a><br>
-      <strong>Jin Wang</strong>, Weijie Wang, Boyuan Deng, Heng Zhang, Rui Dai, Nikos Tsagarakis<br>
-      <em>International Conference on Humanoid Robots (<strong>HUMANOIDS 2025</strong>)</em>
-      <span style="color:red; font-weight:bold;">Oral</span><br>
+    <p><a href="https://arxiv.org/pdf/2508.05342" id="INTENTION">
+      <strong>Information-Theoretic Graph Fusion with Vision-Language-Action Model for Policy Reasoning and Dual Robotic Control </strong></a><br>
+      <strong>Shunlei Li</strong>, Longsen Gaob, Jin Wangc, Chang Ched, Xi Xiaoe, Jiuwen Caoa, Yingbai Huf, Hamid Reza Karimi<br>
+
+[//]: # (      <em>International Conference on Humanoid Robots &#40;<strong>HUMANOIDS 2025</strong>&#41;</em>)
+
+[//]: # (      <span style="color:red; font-weight:bold;">Oral</span>)
+<br>
     </p>
 
     <p>
-      <a href="https://robo-intention.github.io/">webpage</a> |
-      <a href="https://robo-intention.github.io/">pdf</a> |
-      <a href="https://robo-intention.github.io/">arXiv</a> |
-      <a href="https://robo-intention.github.io/">code</a> |
-      <a href="https://www.youtube.com/watch?v=kCupbUgBtXQ">video</a>
+
+      <a href="https://arxiv.org/pdf/2508.05342">webpage</a> |
+      <a href="https://arxiv.org/pdf/2508.05342">pdf</a> |
+      <a href="https://arxiv.org/pdf/2508.05342">arXiv</a> |
+      <a href="https://arxiv.org/pdf/2508.05342">code</a> |
+      <a href="https://www.youtube.com/watch?v=ct0VTcxIHcM">video</a>
     </p>
 
   </div>
@@ -94,7 +99,7 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
   <div style="flex: 1;">
     <p><a href="https://robonurse-vla.github.io/" id="ROBONURSE">
       <strong>RoboNurse-VLA: Robotic Scrub Nurse System based on Vision-Language-Action</strong></a><br>
-      Shunlei Li, <strong>Jin Wang</strong>, Rui Dai, Wanyu Ma, Wing Yin Ng, Yingbai Hu, Zheng Li<br>
+      <strong>Shunlei Li</strong>, Jin Wang, Rui Dai, Wanyu Ma, Wing Yin Ng, Yingbai Hu, Zheng Li<br>
       <em>International Conference on Intelligent Robots and Systems (<strong>IROS 2025</strong>)</em>
       <span style="color:red; font-weight:bold;">Oral</span><br>
     </p>
@@ -104,7 +109,7 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
       <a href="https://arxiv.org/pdf/2409.19590">pdf</a> |
       <a href="https://arxiv.org/abs/2409.19590">arXiv</a> |
       <a href="https://robonurse-vla.github.io/">code</a> |
-      <a href="https://www.youtube.com/watch?v=JT10qDkUb38">video</a>
+      <a href="https://robonurse-vla.github.io/">video</a>
     </p>
 
   </div>
@@ -114,31 +119,33 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
 
   <!-- Recovery -->
   <div style="flex: 1; padding-right: 20px;">
-    <a href="https://boyuandeng.github.io/L2R-WheelLegCoordination/">
-      <video playsinline autoplay loop muted src="assets/video/recovery.png" poster="assets/img/research/recovery.png" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10697472/">
+      <video playsinline autoplay loop muted src="assets/video/pic3.png" poster="assets/img/research/pic3.png" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
     </a>
   </div>
 
   <!-- 右侧：论文信息 -->
   <div style="flex: 1;">
-    <p><a href="https://boyuandeng.github.io/L2R-WheelLegCoordination/" id="RECOVER">
-      <strong>Learning to Recover: Dynamic Reward Shaping with Wheel-Leg Coordination for Fallen Robots</strong></a><br>
-      Boyuan Deng, Luca Rossini, <strong>Jin Wang</strong>, Weijie Wang, Nikos Tsagarakis<br>
-      <em><strong>arXiv</strong></em><br>
+    <p><a href="https://ieeexplore.ieee.org/abstract/document/10697472/" id="RECOVER">
+      <strong>Auto-CALM: Autonomous Computer-Assisted Laser Microsurgery</strong></a><br>
+      <strong>Shunlei Li</strong>, Ajay Gunalan, Muhammad Adeel Azam, Veronica Penza, Darwin G. Caldwell, Leonardo S.Mattos<br>
+      <em><strong>IEEE 2024</strong>)</em>
+      <span style="color:red; font-weight:bold;">Oral</span><br>
     </p>
 
     <p>
-      <a href="https://boyuandeng.github.io/L2R-WheelLegCoordination/">webpage</a> |
-      <a href="https://arxiv.org/pdf/2506.05516">pdf</a> |
-      <a href="https://arxiv.org/abs/2506.05516">arXiv</a> |
-      <a href="https://boyuandeng.github.io/L2R-WheelLegCoordination/">code</a> |
-      <a href="https://www.youtube.com/watch?v=78Ur4Cb2AS4&t=1s">video</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10697472/">webpage</a> |
+      <a href="https://ieeexplore.ieee.org/abstract/document/10697472/">pdf</a> |
+      <a href="https://ieeexplore.ieee.org/abstract/document/10697472/">arXiv</a> |
+      <a href="https://ieeexplore.ieee.org/abstract/document/10697472/">code</a> |
+      <a href="https://ieeexplore.ieee.org/abstract/document/10697472/">video</a>
     </p>
 
   </div>
 </div>
 
-
+## 
+[//]: # (-----------------)
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 
   <!-- Hymotion -->
@@ -153,74 +160,40 @@ Previously, I was a Master student in Robotics at [LIRMM CNRS](https://www.lirmm
     <p><a href="https://hy-motion.github.io/" id="HYPERMOTION">
       <strong>HYPERmotion: Learning Hybrid Behavior Planning for Autonomous Loco-manipulation</strong></a><br>
       <strong>Jin Wang</strong>, Rui Dai, Weijie Wang, Luca Rossini, Francesco Ruscelli, Nikos Tsagarakis<br>
-      <em>8th Conference on Robot Learning (<strong>CoRL 2024</strong>)</em><br>
     </p>
 
     <p>
-      <a href="https://hy-motion.github.io/">webpage</a> |
-      <a href="https://openreview.net/forum?id=ma7McOiCZY">pdf</a> |
       <a href="https://arxiv.org/abs/2406.14655v1">arXiv</a> |
       <a href="https://hy-motion.github.io/">code</a> |
-      <a href="https://www.youtube.com/embed/P-Y_fzpjlhY?si=9S3ZT4HDTwwdufXY">video</a>
     </p>
 
   </div>
 </div>
 
+# Team
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+*Phd student*
+Peisen xu
+Yang xu
+*Master student*
+Yahao wu
+*Bachelor student*
+Yiheng fan
 
-  <!-- IROS24 -->
-  <div style="flex: 1; padding-right: 20px;">
-    <a href="https://arxiv.org/abs/2408.08282">
-      <video playsinline autoplay loop muted src="assets/video/iros2024.mp4" poster="assets/img/research/iros2024.gif" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
-    </a>
-  </div>
+# Collaborators
 
-  <!-- 右侧：论文信息 -->
-  <div style="flex: 1;">
-    <p><a href="https://arxiv.org/abs/2408.08282" id="IROS24">
-      <strong>Autonomous Behavior Planning For Humanoid Loco-manipulation Through Grounded Language Model</strong></a><br>
-      <strong>Jin Wang</strong>, Arturo Laurenzi, Nikos Tsagarakis<br>
-      <em>International Conference on Intelligent Robots and Systems (<strong>IROS 2024</strong>)</em>
-      <span style="color:red; font-weight:bold;">Oral</span><br>
-    </p>
-
-    <p>
-      <a href="https://arxiv.org/abs/2408.08282">pdf</a> |
-      <a href="https://arxiv.org/abs/2408.08282">arXiv</a> |
-      <a href="https://arxiv.org/abs/2408.08282">code</a> |
-      <a href="https://www.youtube.com/watch?v=mmnaxthEX34">video</a>
-    </p>
-
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-
-  <!-- 左侧：论文 GIF 动图 -->
-  <div style="flex: 1; padding-right: 20px;">
-    <a href="https://arxiv.org/abs/2409.01326">
-      <video playsinline autoplay loop muted src="assets/img/research/ICRA@40.png" poster="assets/img/research/ICRA@40.png" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
-    </a>
-  </div>
-
-  <!-- 右侧：论文信息 -->
-  <div style="flex: 1;">
-    <p><a href="https://arxiv.org/abs/2409.01326" id="HYPERMOTION">
-      <strong>Grounding Language Models in Autonomous Loco-manipulation Tasks</strong></a><br>
-      <strong>Jin Wang</strong>, Nikos Tsagarakis<br>
-      <em>International Conference on Robotics and Automation<strong>ICRA@40</strong></em><br>
-    </p>
-
-    <p>
-      <a href="https://arxiv.org/abs/2409.01326">pdf</a> |
-      <a href="https://arxiv.org/abs/2409.01326">arXiv</a> |
-    </p>
-
-  </div>
-</div>
-
+I am fortunate to have collaborated with many amazing people :
+Darwin Caldwell, it
+Hamid Reza Karimi, Polimi
+Jiafu ji, PKU
+Philip chiu, cuhk
+Xiao liang, zju
+Cesare Piazza, unibs
+**Alberto Diaspro, unige**
+Leonardo De Mattos, iit
+Zheng li, cuhk
+**Cao Jiuwen, hdu**
+**Gaofeng li, zju**
 
 # Project
 
