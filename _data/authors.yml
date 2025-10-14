@@ -2,13 +2,13 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <Jin> <Wang>
-  email:             <wang.jin@iit.it>
+  name:              <Shunlei> <Li>
+  email:             <shunlei.li@outlook.com>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Jin wang
+    Shunlei Li
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
     
@@ -27,12 +27,12 @@ author1:
   # Rearrange to change the order in which they appear
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
-    twitter:         https://x.com/VWangshin
+#    twitter:         [https://x.com/VWangshin]
     #github:          <username>
-    email:           <wang.jin@iit.it>
+    email:           <shunlei.li@outlook.com>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
-    google:          https://scholar.google.com/citations?user=hqhsz-IAAAAJ&hl
+    google:          https://scholar.google.com/citations?user=bu3BF40AAAAJ&hl=zh-CN
     # vk:              <username>
     # youtube:         <string_string_string>
     # vimeo:           <username>
@@ -58,7 +58,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        https://www.linkedin.com/in/jin-wang-01/
+    linkedin:        https://www.linkedin.com/in/shunlei-li-831985223/?originalSubdomain=cn
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>

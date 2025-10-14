@@ -36,7 +36,6 @@ My research interests lie in **medical robot**, **embodied AI** and **multi-moda
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 
-  <!-- aurora -->
   <div style="flex: 1; padding-right: 20px;">
     <a href=" ">
       <video playsinline autoplay loop muted src="assets/img/research/pic1.png" poster="assets/img/research/pic1.png" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
@@ -45,7 +44,7 @@ My research interests lie in **medical robot**, **embodied AI** and **multi-moda
 
   <!-- 右侧：论文信息 -->
   <div style="flex: 1;">
-    <p><a href=" " id="AURORA">
+    <p><a href=" ">
       <strong>Ai and robot assisted intelligent system for surgical operating room</strong></a><br>
       <strong>Shunlei Li</strong><br>
       <em>Under Review</em><br>
@@ -67,10 +66,6 @@ My research interests lie in **medical robot**, **embodied AI** and **multi-moda
     <p><a href="https://arxiv.org/pdf/2508.05342" id="INTENTION">
       <strong>Information-Theoretic Graph Fusion with Vision-Language-Action Model for Policy Reasoning and Dual Robotic Control </strong></a><br>
       <strong>Shunlei Li</strong>, Longsen Gaob, Jin Wangc, Chang Ched, Xi Xiaoe, Jiuwen Caoa, Yingbai Huf, Hamid Reza Karimi<br>
-
-[//]: # (      <em>International Conference on Humanoid Robots &#40;<strong>HUMANOIDS 2025</strong>&#41;</em>)
-
-[//]: # (      <span style="color:red; font-weight:bold;">Oral</span>)
 <br>
     </p>
 
@@ -117,7 +112,7 @@ My research interests lie in **medical robot**, **embodied AI** and **multi-moda
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 
-  <!-- Recovery -->
+  <!-- Auto-CALM -->
   <div style="flex: 1; padding-right: 20px;">
     <a href="https://ieeexplore.ieee.org/abstract/document/10697472/">
       <video playsinline autoplay loop muted src="assets/video/pic3.png" poster="assets/img/research/pic3.png" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
@@ -126,10 +121,10 @@ My research interests lie in **medical robot**, **embodied AI** and **multi-moda
 
   <!-- 右侧：论文信息 -->
   <div style="flex: 1;">
-    <p><a href="https://ieeexplore.ieee.org/abstract/document/10697472/" id="RECOVER">
+    <p><a href="https://ieeexplore.ieee.org/abstract/document/10697472/" id="Auto-CALM">
       <strong>Auto-CALM: Autonomous Computer-Assisted Laser Microsurgery</strong></a><br>
       <strong>Shunlei Li</strong>, Ajay Gunalan, Muhammad Adeel Azam, Veronica Penza, Darwin G. Caldwell, Leonardo S.Mattos<br>
-      <em><strong>IEEE 2024</strong>)</em>
+      <em><strong>IEEE 2024</strong></em>
       <span style="color:red; font-weight:bold;">Oral</span><br>
     </p>
 
@@ -144,21 +139,18 @@ My research interests lie in **medical robot**, **embodied AI** and **multi-moda
   </div>
 </div>
 
-## 
-[//]: # (-----------------)
+## Other Publications
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 
-  <!-- Hymotion -->
   <div style="flex: 1; padding-right: 20px;">
-    <a href="https://hy-motion.github.io/">
-      <video playsinline autoplay loop muted src="assets/video/hymotion.mp4" poster="assets/img/research/hymotion.gif" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809425010936">
     </a>
   </div>
 
   <!-- 右侧：论文信息 -->
   <div style="flex: 1;">
-    <p><a href="https://hy-motion.github.io/" id="HYPERMOTION">
-      <strong>HYPERmotion: Learning Hybrid Behavior Planning for Autonomous Loco-manipulation</strong></a><br>
+    <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809425010936">
+      <strong>Gastric cancer detection using a hybrid version of gated recurrent unit network and adjusted tyrannosaurus optimization algorithm</strong></a><br>
       <strong>Jin Wang</strong>, Rui Dai, Weijie Wang, Luca Rossini, Francesco Ruscelli, Nikos Tsagarakis<br>
     </p>
 
@@ -172,27 +164,44 @@ My research interests lie in **medical robot**, **embodied AI** and **multi-moda
 
 # Team
 
-*Phd student*
+Phd student
+
 Peisen xu
+
 Yang xu
-*Master student*
+
+Master student
+
 Yahao wu
-*Bachelor student*
+
+Bachelor student
+
 Yiheng fan
 
 # Collaborators
 
 I am fortunate to have collaborated with many amazing people :
+
 Darwin Caldwell, it
+
 Hamid Reza Karimi, Polimi
+
 Jiafu ji, PKU
+
 Philip chiu, cuhk
+
 Xiao liang, zju
+
 Cesare Piazza, unibs
+
 **Alberto Diaspro, unige**
+
 Leonardo De Mattos, iit
+
 Zheng li, cuhk
+
 **Cao Jiuwen, hdu**
+
 **Gaofeng li, zju**
 
 # Project
