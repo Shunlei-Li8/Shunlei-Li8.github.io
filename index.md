@@ -149,6 +149,7 @@ XianFang Liu, **ShunLei Li**, Qin Zhu, ShaoKun Xu, QinYang Jin
       <a href="https://link.springer.com/article/10.1007/s10278-025-01643-y">code</a> 
 </p>
 
+
 3.[Towards scalable medical image compression using hybrid model analysis](https://link.springer.com/article/10.1186/s40537-025-01073-1)
 
 **Shunlei Li**, Jiajie Lu, Yingbai Hu, Leonardo S Mattos, Zheng Li
@@ -156,6 +157,7 @@ XianFang Liu, **ShunLei Li**, Qin Zhu, ShaoKun Xu, QinYang Jin
       <a href="https://link.springer.com/article/10.1186/s40537-025-01073-1">webpage</a> |
       <a href="https://link.springer.com/article/10.1186/s40537-025-01073-1">code</a> 
 </p>
+
 
 4.[Weighted symmetric nonnegative matrix factorization and graph-boosting to improve the attributed graph clustering](https://www.sciencedirect.com/science/article/abs/pii/S0952197624020736)
 
@@ -165,6 +167,7 @@ XianFang Liu, **ShunLei Li**, Qin Zhu, ShaoKun Xu, QinYang Jin
       <a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197624020736">code</a> 
 </p>
 
+
 5.[Optimal consensus control of dynamically interconnected multi-agent systems: A SDRE approach for efficient and stable operation](https://www.sciencedirect.com/science/article/abs/pii/S0307904X24004803)
 
 Yuegang Hu, **Shunlei Li**, Yiyong Xiao, Muhammad Adeel Azam
@@ -172,6 +175,7 @@ Yuegang Hu, **Shunlei Li**, Yiyong Xiao, Muhammad Adeel Azam
       <a href="https://www.sciencedirect.com/science/article/abs/pii/S0307904X24004803">webpage</a> |
       <a href="https://www.sciencedirect.com/science/article/abs/pii/S0307904X24004803">code</a> 
 </p>
+
 
 6.[Towards a semi-supervised ensemble clustering framework with flexible weighting mechanism and constraints information](https://www.sciencedirect.com/science/article/abs/pii/S0952197624011345)
 
@@ -181,6 +185,7 @@ Jing Tang, Decheng Xu, Qingwei Cai, **Shunlei Li**, Amin Rezaeipanah
       <a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197624011345">code</a> 
 </p>
 
+
 7.[Reliable multiplex semi-local random walk based on influential nodes to improve link prediction in complex networks](https://link.springer.com/article/10.1007/s10462-024-10801-7)
 
 **Shunlei Li**, Jing Tang, Wen Zhou, Yin Zhang, Muhammad Adeel Azam, Leonardo S Mattos
@@ -188,6 +193,7 @@ Jing Tang, Decheng Xu, Qingwei Cai, **Shunlei Li**, Amin Rezaeipanah
       <a href="https://link.springer.com/article/10.1007/s10462-024-10801-7">webpage</a> |
       <a href="https://link.springer.com/article/10.1007/s10462-024-10801-7">code</a> 
 </p>
+
 
 8.[A Single-Switch Trans-Inverse High Step-Up Semi-Quadratic DC-DC Converter Based on Three-Winding Coupled-Inductor](https://ieeexplore.ieee.org/abstract/document/10480269)
 
@@ -197,6 +203,7 @@ Yuegang Hu, Weishu Zhan, **Shunlei Li***, Muhammad Adeel Azam
       <a href="https://ieeexplore.ieee.org/abstract/document/10480269">code</a> 
 </p>
 
+
 9.[Evaluating the efficiency of CCHP systems in Xinjiang Uygur Autonomous Region: An optimal strategy based on improved mother optimization algorithm](https://www.sciencedirect.com/science/article/pii/S2214157X24000364)
 
 **Shunlei Li**, Xia Fang, Jiawei Liao, Mojtaba Ghadamyari, Majid Khayatnezhad, Noradin Ghadimi
@@ -205,6 +212,7 @@ Yuegang Hu, Weishu Zhan, **Shunlei Li***, Muhammad Adeel Azam
       <a href="https://www.sciencedirect.com/science/article/pii/S2214157X24000364">code</a> 
 </p>
 
+
 10.[Automatic delineation of laryngeal squamous cell carcinoma during endoscopy](https://www.sciencedirect.com/science/article/abs/pii/S1746809423010996)
 
 Muhammad Adeel Azam, Claudio Sampieri, Alessandro Ioppi, Muhammad Ashir Azam, Chiara Baldini, **Shunlei Li**, Sara Moccia, Giorgio Peretti, Leonardo S Mattos
@@ -212,6 +220,7 @@ Muhammad Adeel Azam, Claudio Sampieri, Alessandro Ioppi, Muhammad Ashir Azam, Ch
       <a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809423010996">webpage</a> |
       <a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809423010996">code</a> 
 </p>
+
 
 11.[Videomics of the upper aero-digestive tract cancer: deep learning applied to white light and narrow band imaging for automatic segmentation of endoscopic images](https://pmc.ncbi.nlm.nih.gov/articles/PMC9198427/)
 
