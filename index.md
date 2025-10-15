@@ -162,6 +162,21 @@ My research interests lie in **medical robot**, **embodied AI** and **multi-moda
   </div>
 </div>
 
+## Other Publications ☺
+1.[Gastric cancer detection using a hybrid version of gated recurrent unit network and adjusted tyrannosaurus optimization algorithm](https://www.sciencedirect.com/science/article/abs/pii/S1746809425010936)
+Chaofan Gong, Ziyu Jia, Peng Yuan, **Shunlei Li**, Jiafu Ji, Noradin Ghadimi
+<p>
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809425010936">webpage</a> |
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809425010936">code</a> 
+</p>
+
+2.[Interpretable Semi-federated Learning for Multimodal Cardiac Imaging and Risk Stratification: A Privacy-Preserving Framework](https://link.springer.com/article/10.1007/s10278-025-01643-y)
+XianFang Liu, **ShunLei Li**, Qin Zhu, ShaoKun Xu, QinYang Jin
+<p>
+      <a href="https://link.springer.com/article/10.1007/s10278-025-01643-y">webpage</a> |
+      <a href="https://link.springer.com/article/10.1007/s10278-025-01643-y">code</a> 
+</p>
+
 # Team
 
 Phd student
