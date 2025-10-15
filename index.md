@@ -151,19 +151,18 @@ My research interests lie in **medical robot**, **embodied AI** and **multi-moda
   <div style="flex: 1;">
     <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809425010936">
       <strong>Gastric cancer detection using a hybrid version of gated recurrent unit network and adjusted tyrannosaurus optimization algorithm</strong></a><br>
-      <strong>Jin Wang</strong>, Rui Dai, Weijie Wang, Luca Rossini, Francesco Ruscelli, Nikos Tsagarakis<br>
+      Chaofan Gong, Ziyu Jia, Peng Yuan, <strong>Shunlei Li</strong>, Jiafu Ji, Noradin Ghadimi<br>
     </p>
 
     <p>
-      <a href="https://arxiv.org/abs/2406.14655v1">arXiv</a> |
-      <a href="https://hy-motion.github.io/">code</a> |
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809425010936">webpage</a> |
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809425010936">code</a> 
     </p>
 
   </div>
 </div>
 
 # Team
-
 
 Phd student
 
