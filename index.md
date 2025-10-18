@@ -12,13 +12,15 @@ hide_image: true
 
 # About
 
-Hi! My name is **Shunlei Li**. I'm joining [Hangzhou Dianzi University](https://en.hdu.edu.cn/) as a Professor.
+Hi! My name is **Shunlei Li**. I'm joining [Hangzhou Dianzi University](https://en.hdu.edu.cn/) as a Tenure Track Professor.
 
 Prior to that, I completed D.Phil at Istituto Italiano di Tecnologia, 2024, and later become a postdoctoral Fellow working on medical robotics, computer vision, deep learning, biomedical image analysis, at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/).
 
 Advisors: Prof. Darwin Caldwell, and Prof. Leonardo De Mattos.
 
 My research interests lie in **medical robot**, **embodied AI** and **multi-modality vision language large model**, **AI4Science**. 
+
+我是李顺磊
 
 
 # Research
