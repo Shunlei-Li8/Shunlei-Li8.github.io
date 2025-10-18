@@ -20,8 +20,9 @@ Advisors: Prof. Darwin Caldwell, and Prof. Leonardo De Mattos.
 
 My research interests lie in **medical robot**, **embodied AI** and **multi-modality vision language large model**, **AI4Science**. 
 
-我是李顺磊
-
+李顺磊，杭州电子科技大学自动化（人工智能）学院特聘教授，浙江省海外引进青年人才。
+博士毕业于意大利技术研究所，后于香港中文大学作为博士后进行医疗机器人研究。
+主要研究医疗机器人，healthcare ai。发表论文近 30 篇，其中获评 esi 高被引和热点论文 1 次，受邀参与多个国际会议进行主旨报告，研究获意大利国家电视台、香港大公报等媒体多次报道，Google Scholar 引用 > 500 次。
 
 # Research
 ## Featured Publications
@@ -59,15 +60,13 @@ My research interests lie in **medical robot**, **embodied AI** and **multi-moda
     <p><a href="https://arxiv.org/pdf/2508.05342" id="INTENTION">
       <strong>Information-Theoretic Graph Fusion with Vision-Language-Action Model for Policy Reasoning and Dual Robotic Control </strong></a><br>
       <strong>Shunlei Li</strong>, Longsen Gaob, Jin Wangc, Chang Ched, Xi Xiaoe, Jiuwen Caoa, Yingbai Huf, Hamid Reza Karimi<br>
+      <em>Under Review at Information Fusion</em><br>
 <br>
     </p>
 
     <p>
 
-      <a href="https://arxiv.org/pdf/2508.05342">webpage</a> |
-      <a href="https://arxiv.org/pdf/2508.05342">pdf</a> |
       <a href="https://arxiv.org/pdf/2508.05342">arXiv</a> |
-      <a href="https://arxiv.org/pdf/2508.05342">code</a> |
       <a href="https://www.youtube.com/watch?v=ct0VTcxIHcM">video</a>
     </p>
 
@@ -94,10 +93,7 @@ My research interests lie in **medical robot**, **embodied AI** and **multi-moda
 
     <p>
       <a href="https://robonurse-vla.github.io/">webpage</a> |
-      <a href="https://arxiv.org/pdf/2409.19590">pdf</a> |
-      <a href="https://arxiv.org/abs/2409.19590">arXiv</a> |
-      <a href="https://robonurse-vla.github.io/">code</a> |
-      <a href="https://robonurse-vla.github.io/">video</a>
+      <a href="https://arxiv.org/abs/2409.19590">arXiv</a> 
     </p>
 
   </div>
@@ -117,16 +113,11 @@ My research interests lie in **medical robot**, **embodied AI** and **multi-moda
     <p><a href="https://ieeexplore.ieee.org/abstract/document/10697472/" id="Auto-CALM">
       <strong>Auto-CALM: Autonomous Computer-Assisted Laser Microsurgery</strong></a><br>
       <strong>Shunlei Li</strong>, Ajay Gunalan, Muhammad Adeel Azam, Veronica Penza, Darwin G. Caldwell, Leonardo S.Mattos<br>
-      <em><strong>IEEE 2024</strong></em>
-      <span style="color:red; font-weight:bold;">Oral</span><br>
+      <em><strong>IEEE Transactions on Medical Robotics and Bionics</strong></em>
     </p>
 
     <p>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10697472/">webpage</a> |
-      <a href="https://ieeexplore.ieee.org/abstract/document/10697472/">pdf</a> |
-      <a href="https://ieeexplore.ieee.org/abstract/document/10697472/">arXiv</a> |
-      <a href="https://ieeexplore.ieee.org/abstract/document/10697472/">code</a> |
-      <a href="https://ieeexplore.ieee.org/abstract/document/10697472/">video</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10697472/">paper</a> |
     </p>
 
   </div>
@@ -138,8 +129,7 @@ My research interests lie in **medical robot**, **embodied AI** and **multi-moda
 
 Chaofan Gong, Ziyu Jia, Peng Yuan, **Shunlei Li**, Jiafu Ji, Noradin Ghadimi
 <p>
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809425010936">webpage</a> |
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809425010936">code</a> 
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809425010936">webpage</a> 
 </p>
 
 
@@ -147,8 +137,7 @@ Chaofan Gong, Ziyu Jia, Peng Yuan, **Shunlei Li**, Jiafu Ji, Noradin Ghadimi
 
 XianFang Liu, **ShunLei Li**, Qin Zhu, ShaoKun Xu, QinYang Jin
 <p>
-      <a href="https://link.springer.com/article/10.1007/s10278-025-01643-y">webpage</a> |
-      <a href="https://link.springer.com/article/10.1007/s10278-025-01643-y">code</a> 
+      <a href="https://link.springer.com/article/10.1007/s10278-025-01643-y">webpage</a> 
 </p>
 
 
@@ -156,8 +145,7 @@ XianFang Liu, **ShunLei Li**, Qin Zhu, ShaoKun Xu, QinYang Jin
 
 **Shunlei Li**, Jiajie Lu, Yingbai Hu, Leonardo S Mattos, Zheng Li
 <p>
-      <a href="https://link.springer.com/article/10.1186/s40537-025-01073-1">webpage</a> |
-      <a href="https://link.springer.com/article/10.1186/s40537-025-01073-1">code</a> 
+      <a href="https://link.springer.com/article/10.1186/s40537-025-01073-1">webpage</a> 
 </p>
 
 
@@ -165,8 +153,7 @@ XianFang Liu, **ShunLei Li**, Qin Zhu, ShaoKun Xu, QinYang Jin
 
 **Shunlei Li**, Lili Wan, Yin Zhang, Lixia Luo
 <p>
-      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197624020736">webpage</a> |
-      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197624020736">code</a> 
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197624020736">webpage</a>
 </p>
 
 
@@ -174,8 +161,7 @@ XianFang Liu, **ShunLei Li**, Qin Zhu, ShaoKun Xu, QinYang Jin
 
 Yuegang Hu, **Shunlei Li**, Yiyong Xiao, Muhammad Adeel Azam
 <p>
-      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0307904X24004803">webpage</a> |
-      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0307904X24004803">code</a> 
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0307904X24004803">webpage</a>
 </p>
 
 
@@ -183,8 +169,7 @@ Yuegang Hu, **Shunlei Li**, Yiyong Xiao, Muhammad Adeel Azam
 
 Jing Tang, Decheng Xu, Qingwei Cai, **Shunlei Li**, Amin Rezaeipanah
 <p>
-      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197624011345">webpage</a> |
-      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197624011345">code</a> 
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197624011345">webpage</a>
 </p>
 
 
@@ -192,8 +177,7 @@ Jing Tang, Decheng Xu, Qingwei Cai, **Shunlei Li**, Amin Rezaeipanah
 
 **Shunlei Li**, Jing Tang, Wen Zhou, Yin Zhang, Muhammad Adeel Azam, Leonardo S Mattos
 <p>
-      <a href="https://link.springer.com/article/10.1007/s10462-024-10801-7">webpage</a> |
-      <a href="https://link.springer.com/article/10.1007/s10462-024-10801-7">code</a> 
+      <a href="https://link.springer.com/article/10.1007/s10462-024-10801-7">webpage</a> 
 </p>
 
 
@@ -201,8 +185,7 @@ Jing Tang, Decheng Xu, Qingwei Cai, **Shunlei Li**, Amin Rezaeipanah
 
 Yuegang Hu, Weishu Zhan, **Shunlei Li***, Muhammad Adeel Azam
 <p>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10480269">webpage</a> |
-      <a href="https://ieeexplore.ieee.org/abstract/document/10480269">code</a> 
+      <a href="https://ieeexplore.ieee.org/abstract/document/10480269">webpage</a> 
 </p>
 
 
@@ -210,8 +193,7 @@ Yuegang Hu, Weishu Zhan, **Shunlei Li***, Muhammad Adeel Azam
 
 **Shunlei Li**, Xia Fang, Jiawei Liao, Mojtaba Ghadamyari, Majid Khayatnezhad, Noradin Ghadimi
 <p>
-      <a href="https://www.sciencedirect.com/science/article/pii/S2214157X24000364">webpage</a> |
-      <a href="https://www.sciencedirect.com/science/article/pii/S2214157X24000364">code</a> 
+      <a href="https://www.sciencedirect.com/science/article/pii/S2214157X24000364">webpage</a> 
 </p>
 
 
@@ -219,8 +201,7 @@ Yuegang Hu, Weishu Zhan, **Shunlei Li***, Muhammad Adeel Azam
 
 Muhammad Adeel Azam, Claudio Sampieri, Alessandro Ioppi, Muhammad Ashir Azam, Chiara Baldini, **Shunlei Li**, Sara Moccia, Giorgio Peretti, Leonardo S Mattos
 <p>
-      <a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809423010996">webpage</a> |
-      <a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809423010996">code</a> 
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809423010996">webpage</a> 
 </p>
 
 
@@ -228,32 +209,31 @@ Muhammad Adeel Azam, Claudio Sampieri, Alessandro Ioppi, Muhammad Ashir Azam, Ch
 
 Muhammad Adeel Azam, Claudio Sampieri, Alessandro Ioppi, Pietro Benzi, Giorgio Gregory Giordano, Marta De Vecchi, Valentina Campagnari, **Shunlei Li**, Luca Guastini, Alberto Paderno, Sara Moccia, Cesare Piazza, Leonardo S Mattos, Giorgio Peretti
 <p>
-      <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9198427/">webpage</a> |
-      <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9198427/">code</a> 
+      <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9198427/">webpage</a> 
 </p>
 
 
 # Team
 
-Phd student
+**Phd student:**
 
-**Peisen xu**
+Peisen xu
 
-**Yang xu**
+Yang xu
 
-Master student
+**Master student:**
 
-**Yahao wu**
+Yahao wu
 
-Bachelor student
+**Bachelor student:**
 
-**Yiheng fan**
+Yiheng fan
 
-**Zhongkun tong**
+Zhongkun tong
 
-**Keyu zhou**
+Keyu zhou
 
-**Haoxuan xiang**
+Haoxuan xiang
 
 # Collaborators
 
@@ -263,11 +243,11 @@ Darwin Caldwell, IIT
 
 Hamid Reza Karimi, POLIMI
 
-Jiafu ji, PKU
+Jiafu Ji, PKU
 
-Philip chiu, CUHK
+Philip Chiu, CUHK
 
-Xiao liang, ZJU
+Xiao Liang, ZJU
 
 Cesare Piazza, UNIBS
 
@@ -275,11 +255,11 @@ Alberto Diaspro, UNIGE
 
 Leonardo De Mattos, IIT
 
-Zheng li, CUHK
+Zheng Li, CUHK
 
-Cao Jiuwen, HDU
+Jiuwen Cao, HDU
 
-Gaofeng li, ZJU
+Gaofeng Li, ZJU
 
 # Project
 
