@@ -22,29 +22,10 @@ My research interests lie in **medical robot**, **embodied AI** and **multi-moda
 
 李顺磊，杭州电子科技大学自动化（人工智能）学院特聘教授，浙江省海外引进青年人才。
 博士毕业于意大利技术研究所，后于香港中文大学作为博士后进行医疗机器人研究。
-主要研究医疗机器人，healthcare ai。发表论文近 30 篇，其中获评 esi 高被引和热点论文 1 次，受邀参与多个国际会议进行主旨报告，研究获意大利国家电视台、香港大公报等媒体多次报道，Google Scholar 引用 > 500 次。
+主要研究医疗机器人，healthcare ai。发表论文近 30 篇，其中获评 esi 高被引和热点论文 1 次，获评IROS 2025 AIR4S Best Poster Award 1 次，受邀参与多个国际会议进行主旨报告，研究获意大利国家电视台、香港大公报等媒体多次报道，Google Scholar 引用 > 500 次。
 
 # Research
 ## Featured Publications
-
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-
-  <div style="flex: 1; padding-right: 20px;">
-    <a href=" ">
-      <video playsinline autoplay loop muted src="assets/img/research/pic1.png" poster="assets/img/research/pic1.png" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
-    </a>
-  </div>
-
-  <!-- 右侧：论文信息 -->
-  <div style="flex: 1;">
-    <p><a href=" ">
-      <strong>Ai and robot assisted intelligent system for surgical operating room</strong></a><br>
-      <strong>Shunlei Li</strong><br>
-      <em>Under Review</em><br>
-    </p>
-  </div>
-</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 
@@ -263,4 +244,19 @@ Gaofeng Li, ZJU
 
 # Project
 
-TBD
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+
+  <div style="flex: 1; padding-right: 20px;">
+    <a href=" ">
+      <video playsinline autoplay loop muted src="assets/img/research/pic1.png" poster="assets/img/research/pic1.png" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
+    </a>
+  </div>
+
+  <!-- 右侧：论文信息 -->
+  <div style="flex: 1;">
+    <p><a href=" ">
+      <strong>Ai and robot assisted intelligent system for surgical operating room</strong></a><br>
+      <strong>Shunlei Li</strong><br>
+    </p>
+  </div>
+</div>
