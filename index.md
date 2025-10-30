@@ -84,18 +84,16 @@ My research interests lie in **medical robot**, **embodied AI** and **multi-moda
 
   <!-- larynx -->
   <div style="flex: 1; padding-right: 20px;">
-    <a href="https://robonurse-vla.github.io/">
+    <a href="https://aircareproject.eu/aircare-featured-on-leonardo">
       <video playsinline autoplay loop muted src="assets/video/larynx.mp4" poster="assets/img/research/larynx.gif" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
     </a>
   </div>
 
   <!-- 右侧：论文信息 -->
   <div style="flex: 1;">
-    <p><a href="https://robonurse-vla.github.io/" id="ROBONURSE">
-      <strong>Automatic delineation of laryngeal squamous cell carcinoma during endoscopy</strong></a><br>
-      <em>Biomedical Signal Processing and Control</em>
-      <strong>Videomics of the Upper Aero-Digestive Tract Cancer: Deep Learning Applied to White Light and Narrow Band Imaging for Automatic Segmentation of Endoscopic Images</strong></a><br>
-      <em>Frontiers in Oncology</em>
+    <p><a href="https://aircareproject.eu/aircare-featured-on-leonardo" id="LARYNX">
+      <strong>Paper1: Automatic delineation of laryngeal squamous cell carcinoma during endoscopy|Paper2: Videomics of the Upper Aero-Digestive Tract Cancer: Deep Learning Applied to White Light and Narrow Band Imaging for Automatic Segmentation of Endoscopic Images</strong></a><br>
+      <em>Biomedical Signal Processing and Control | Frontiers in Oncology</em>
     </p>
 
     <p>
