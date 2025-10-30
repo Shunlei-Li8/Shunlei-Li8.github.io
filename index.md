@@ -82,6 +82,32 @@ My research interests lie in **medical robot**, **embodied AI** and **multi-moda
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 
+  <!-- larynx -->
+  <div style="flex: 1; padding-right: 20px;">
+    <a href="https://robonurse-vla.github.io/">
+      <video playsinline autoplay loop muted src="assets/video/larynx.mp4" poster="assets/img/research/larynx.gif" alt="sym" width="100%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;"></video>
+    </a>
+  </div>
+
+  <!-- 右侧：论文信息 -->
+  <div style="flex: 1;">
+    <p><a href="https://robonurse-vla.github.io/" id="ROBONURSE">
+      <strong>Automatic delineation of laryngeal squamous cell carcinoma during endoscopy</strong></a><br>
+      <em>Biomedical Signal Processing and Control</em>
+      <strong>Videomics of the Upper Aero-Digestive Tract Cancer: Deep Learning Applied to White Light and Narrow Band Imaging for Automatic Segmentation of Endoscopic Images</strong></a><br>
+      <em>Frontiers in Oncology</em>
+    </p>
+
+    <p>
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809423010996">paper1</a> |
+      <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9198427/">paper2</a> 
+    </p>
+
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+
   <!-- Auto-CALM -->
   <div style="flex: 1; padding-right: 20px;">
     <a href="https://ieeexplore.ieee.org/abstract/document/10697472/">
