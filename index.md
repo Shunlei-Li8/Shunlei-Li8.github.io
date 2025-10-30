@@ -222,23 +222,25 @@ Muhammad Adeel Azam, Claudio Sampieri, Alessandro Ioppi, Pietro Benzi, Giorgio G
 
 **Phd student:**
 
-Peisen xu
+Peisen Xu
 
-Yang xu
+Yang Xu
 
 **Master student:**
 
-Yahao wu
+Yahao Wu
 
 **Bachelor student:**
 
-Yiheng fan
+Yiheng Fan
 
-Zhongkun tong
+Zhongkun Tong
 
-Keyu zhou
+Keyu Zhou
 
-Haoxuan xiang
+Haoxuan Xiang
+
+Zhibo Zhang
 
 # Collaborators
 
